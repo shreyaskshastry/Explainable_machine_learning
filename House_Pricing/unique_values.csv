@@ -1,0 +1,26 @@
+MSSubClass,MSZoning,Alley,LotShape,LandContour,LotConfig,LandSlope,Neighborhood,Condition1,Condition2,BldgType,HouseStyle,RoofStyle,RoofMatl,Exterior1st,Exterior2nd,MasVnrType,ExterQual,ExterCond,Foundation,BsmtQual,BsmtCond,BsmtExposure,BsmtFinType1,BsmtFinType2,Heating,HeatingQC,CentralAir,Electrical,KitchenQual,Functional,FireplaceQu,GarageType,GarageFinish,GarageQual,GarageCond,PavedDrive,Fence,MiscFeature,MoSold,YrSold,SaleType,SaleCondition
+60,RL,None,Reg,Lvl,Inside,Gtl,CollgCr,Norm,Norm,1Fam,2Story,Gable,CompShg,VinylSd,VinylSd,BrkFace,Gd,TA,PConc,Gd,TA,No,GLQ,Unf,GasA,Ex,Y,SBrkr,Gd,Typ,None,Attchd,RFn,TA,TA,Y,None,None,2,2008,WD,Normal
+20,RM,Grvl,IR1,Bnk,FR2,Mod,Veenker,Feedr,Artery,2fmCon,1Story,Hip,WdShngl,MetalSd,MetalSd,None,TA,Gd,CBlock,TA,Gd,Gd,ALQ,BLQ,GasW,Gd,N,FuseF,TA,Min1,TA,Detchd,Unf,Fa,Fa,N,MnPrv,Shed,5,2007,New,Abnorml
+70,C (all),Pave,IR2,Low,Corner,Sev,Crawfor,PosN,RRNn,Duplex,1.5Fin,Gambrel,Metal,Wd Sdng,Wd Shng,Stone,Ex,Fa,BrkTil,Ex,None,Mn,Unf,None,Grav,TA,,FuseA,Ex,Maj1,Gd,BuiltIn,Fin,Gd,None,P,GdWo,Gar2,9,2006,COD,Partial
+50,FV,,IR3,HLS,CulDSac,,NoRidge,Artery,Feedr,TwnhsE,1.5Unf,Mansard,WdShake,HdBoard,HdBoard,BrkCmn,Fa,Po,Wood,None,Fa,Av,Rec,ALQ,Wall,Fa,,FuseP,Fa,Min2,Fa,CarPort,None,None,Gd,,GdPrv,Othr,12,2009,ConLD,AdjLand
+190,RH,,,,FR3,,Mitchel,RRAe,PosA,Twnhs,SFoyer,Flat,Membran,BrkFace,Plywood,,,Ex,Slab,Fa,Po,None,BLQ,Rec,OthW,Po,,Mix,,Mod,Ex,None,,Ex,Po,,MnWw,TenC,10,2010,ConLI,Alloca
+45,,,,,,,Somerst,RRNn,PosN,,SLvl,Shed,Tar&Grv,WdShing,Wd Sdng,,,,Stone,,,,None,LwQ,Floor,,,,,Maj2,Po,Basment,,Po,Ex,,,,8,,CWD,Family
+90,,,,,,,NWAmes,RRAn,RRAn,,2.5Unf,,Roll,CemntBd,CmentBd,,,,,,,,LwQ,GLQ,,,,,,Sev,,2Types,,,,,,,11,,ConLw,
+120,,,,,,,OldTown,PosA,RRAe,,2.5Fin,,,Plywood,BrkFace,,,,,,,,,,,,,,,,,,,,,,,,4,,Con,
+30,,,,,,,BrkSide,RRNe,,,,,,AsbShng,Stucco,,,,,,,,,,,,,,,,,,,,,,,,1,,Oth,
+85,,,,,,,Sawyer,,,,,,,Stucco,AsbShng,,,,,,,,,,,,,,,,,,,,,,,,7,,,
+80,,,,,,,NridgHt,,,,,,,BrkComm,Brk Cmn,,,,,,,,,,,,,,,,,,,,,,,,3,,,
+160,,,,,,,NAmes,,,,,,,AsphShn,ImStucc,,,,,,,,,,,,,,,,,,,,,,,,6,,,
+75,,,,,,,SawyerW,,,,,,,Stone,AsphShn,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,,,,,,,IDOTRR,,,,,,,ImStucc,Stone,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,,,,,,,MeadowV,,,,,,,CBlock,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,Edwards,,,,,,,,CBlock,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Timber,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Gilbert,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,StoneBr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,ClearCr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,NPkVill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Blmngtn,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,BrDale,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,SWISU,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Blueste,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
